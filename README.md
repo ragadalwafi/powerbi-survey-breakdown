@@ -16,11 +16,11 @@ This project is an interactive Power BI dashboard that analyzes survey data from
 
 --- 
 ## Key Insights
-- Data Scientists have the highest average salary among surveyed roles
-- Work-life balance satisfaction is higher than salary satisfaction
-- A large portion of professionals transitioned into data careers
-- Python is the most popular programming language
-- The top career priority is better salary, followed by remote work
+- **Data Scientists** have the **highest** average salary among surveyed roles
+- **Work-life balance satisfaction** is higher than salary satisfaction
+- A large portion of professionals **transitioned into data careers**
+- **Python** is the most popular programming language
+- The top career priority is **better salary**, followed by remote work
 
 ---
 ## Dashboard Features
