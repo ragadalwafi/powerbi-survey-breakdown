@@ -9,7 +9,7 @@ This project is an interactive Power BI dashboard that analyzes survey data from
 - Identify popular programming languages
 - Highlight what professionals value most in their careers
 ---
-![Screenshot](https://github.com/user-attachments/assets/aed1ecad-654c-4366-a643-0b976ce0d9b5))
+![Screenshot](https://github.com/user-attachments/assets/aed1ecad-654c-4366-a643-0b976ce0d9b5)
 
 ---
 ![Screenshot](https://github.com/user-attachments/assets/73d20fa1-fb16-4c1f-82a2-51fef629e0f9)
